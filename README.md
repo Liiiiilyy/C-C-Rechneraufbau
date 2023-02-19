@@ -1,2 +1,3 @@
 # Trial-Course-Notes
-used for informatik 
+- for class 19.02.2023 16:00
+  - read file c/c++
